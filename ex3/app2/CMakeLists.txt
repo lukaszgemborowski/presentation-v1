@@ -1,0 +1,1 @@
+add_executable(App2 app2.cxx)
